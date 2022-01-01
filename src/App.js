@@ -1,4 +1,4 @@
-import { useState } from 'react/cjs/react.development';
+import { useState } from 'react';
 import './App.css';
 import Alert from './components/Alert';
 //import About from './components/About';
